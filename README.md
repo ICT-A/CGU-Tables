@@ -4,7 +4,7 @@ CGU-Tables
 Conditions Générales d'Utilisation des Tables de partage ICT-A, Longues et Rondes. Les tables d'entraide sont à part.
 * http://TL.ICT-a.ch
 * http://TR.ICT-a.ch
-* http://agora.CloudReady.ch (en cours abandon, au profit des tables rondes)
+* http://agora.CloudReady.ch (en cours abandon, au profit des [tables rondes](http://TR.ICT-a.ch))
 
 Il est juste demander de se respecter et de faire attention:
 * De ne pas créer un nouveau groupe d'un sujet existant
